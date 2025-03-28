@@ -5,7 +5,7 @@ We have been given task to design and make a prototype of a tourist information 
 In `documents` directory you can find all diagrams created to project a good application.
 Class prototypes are stored in `src` directory.
 
-#### Author 
+### Author 
 Paweł Cyganiuk
 
 Michał Jarząb
