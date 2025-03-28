@@ -7,5 +7,7 @@ Class prototypes are stored in `src` directory.
 
 #### Author 
 Paweł Cyganiuk
+
 Michał Jarząb
+
 Jakub Biadalski 2023
